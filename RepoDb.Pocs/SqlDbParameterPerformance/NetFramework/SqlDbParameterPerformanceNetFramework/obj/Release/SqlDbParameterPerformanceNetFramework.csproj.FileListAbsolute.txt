@@ -1,0 +1,10 @@
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Release\SqlDbParameterPerformanceNetFramework.exe.config
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Release\SqlDbParameterPerformanceNetFramework.exe
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Release\SqlDbParameterPerformanceNetFramework.pdb
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Release\RepoDb.dll
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Release\RepoDb.pdb
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Release\RepoDb.xml
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\obj\Release\SqlDbParameterPerformanceNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\obj\Release\SqlDbParameterPerformanceNetFramework.csproj.CopyComplete
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\obj\Release\SqlDbParameterPerformanceNetFramework.exe
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\obj\Release\SqlDbParameterPerformanceNetFramework.pdb

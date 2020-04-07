@@ -1,0 +1,11 @@
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\obj\Debug\SqlDbParameterPerformanceNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Debug\SqlDbParameterPerformanceNetFramework.exe.config
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Debug\SqlDbParameterPerformanceNetFramework.exe
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Debug\SqlDbParameterPerformanceNetFramework.pdb
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Debug\RepoDb.dll
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Debug\RepoDb.pdb
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\bin\Debug\RepoDb.xml
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\obj\Debug\SqlDbParameterPerformanceNetFramework.csprojAssemblyReference.cache
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\obj\Debug\SqlDbParameterPerformanceNetFramework.csproj.CopyComplete
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\obj\Debug\SqlDbParameterPerformanceNetFramework.exe
+C:\Users\MichaelP\Source\Repos\GitHub\RepoDb\RepoDb.Pocs\SqlDbParameterPerformance\NetFramework\SqlDbParameterPerformanceNetFramework\obj\Debug\SqlDbParameterPerformanceNetFramework.pdb
